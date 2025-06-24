@@ -10,18 +10,18 @@
   {
     "title": "Text to Image",
     "imageSrc": "project/week3UI.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "A tool that generates text, and images.",
+    "skills": ["React", "Express", "Node", "Tailwind", "Firebase"],
     "demo": "https://kyleimage.netlify.app/login",
-    "source": "https://www.github.com"
+    "source": "https://github.com/KyleFuscher/AI_Image_Gen"
   },
   {
     "title": "Resume Cover Letter Builder",
     "imageSrc": "project/week4UI.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Express", "Node", "Tailwind", "Firebase"],
     "demo": "https://kyleresume.netlify.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/KyleFuscher/Resume_Cover_Letter"
   },
    {
     "title": "Project A",
@@ -41,6 +41,14 @@
   },
    {
     "title": "Project C",
+    "imageSrc": "project/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project D",
     "imageSrc": "project/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
