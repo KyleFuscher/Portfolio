@@ -18,7 +18,7 @@
   {
     "title": "Resume Cover Letter Builder",
     "imageSrc": "project/week4UI.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a project made to build reume & cover letter.",
     "skills": ["React", "Express", "Node", "Tailwind", "Firebase"],
     "demo": "https://kyleresume.netlify.app/",
     "source": "https://github.com/KyleFuscher/Resume_Cover_Letter"
