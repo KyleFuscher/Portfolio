@@ -1,21 +1,45 @@
 [
   {
     "title": "Healthcare App",
-    "imageSrc": "project/week3UI.png",
+    "imageSrc": "project/week2UI.png",
     "description": "AI Ethics in Healthcare Sector.",
     "skills": ["Lovable", "React", "Superbase"],
     "demo": "https://tech-titans.lovable.app/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "project/project.png",
+    "title": "Text to Image",
+    "imageSrc": "project/week3UI.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "demo": "https://kyleimage.netlify.app/login",
     "source": "https://www.github.com"
   },
   {
+    "title": "Resume Cover Letter Builder",
+    "imageSrc": "project/week4UI.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://kyleresume.netlify.app/",
+    "source": "https://www.github.com"
+  },
+   {
+    "title": "Project A",
+    "imageSrc": "project/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+   {
+    "title": "Project B",
+    "imageSrc": "project/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+   {
     "title": "Project C",
     "imageSrc": "project/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
