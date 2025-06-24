@@ -12,7 +12,7 @@
     "imageSrc": "project/week3UI.png",
     "description": "A tool that generates text, and images.",
     "skills": ["React", "Express", "Node", "Tailwind", "Firebase"],
-    "demo": "https://github.com/KyleFuscher/AI_Image_Gen",
+    "demo": "https://kyleimage.netlify.app/login",
     "source": "https://github.com/KyleFuscher/AI_Image_Gen"
   },
   {
