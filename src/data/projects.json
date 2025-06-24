@@ -10,12 +10,20 @@
   {
     "title": "Text to Image",
     "imageSrc": "project/week3UI.png",
-    "description": "A tool that generates text, and images.",
+    "description": "A tool that generates text to images. I used Firebase to configure a complete user authentication system.",
     "skills": ["React", "Express", "Node", "Tailwind", "Firebase"],
     "demo": "https://kyle-image.netlify.app/login",
     "source": "https://github.com/KyleFuscher/AI_Image_Gen"
   },
   {
+    "title": "ChatGPT",
+    "imageSrc": "project/chatGPT.png",
+    "description": "This is a ChatGPT in React with the help of OpenAI API.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://kylefuscherchatgpt.netlify.app/",
+    "source": "https://github.com/KyleFuscher/ChatGPT"
+  },
+   {
     "title": "Resume Cover Letter Builder",
     "imageSrc": "project/week4UI.png",
     "description": "This is a project made to build reume & cover letter.",
@@ -39,7 +47,7 @@
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
-   {
+  {
     "title": "Project C",
     "imageSrc": "project/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
@@ -49,14 +57,6 @@
   },
   {
     "title": "Project D",
-    "imageSrc": "project/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project E",
     "imageSrc": "project/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
