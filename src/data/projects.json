@@ -43,7 +43,7 @@
     "title": "Project B",
     "imageSrc": "project/project.png",
     "description": "A practice project demonstrating CRUD operations, REST API integration, and responsive UI with React and Node.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
