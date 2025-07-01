@@ -2,7 +2,7 @@
   {
     "title": "Healthcare App",
     "imageSrc": "project/week2UI.png",
-    "description": "A responsive web platform exploring AI ethics in the healthcare sector, featuring interactive case studies and resources for best practices.",
+    "description": "AI-powered tool exploring ethical considerations, featuring interactive case studies and resources for best practices.",
     "skills": ["Builder.io", "Figma", "Lovable", "Superbase"],
     "demo": "https://tech-titans.lovable.app/",
     "source": "https://github.com/KyleFuscher/tech-titans"
@@ -11,7 +11,7 @@
     "title": "Text to Image",
     "imageSrc": "project/week3UI.png",
     "description": "A full-stack web app that transforms text prompts into AI-generated images, including secure user authentication with Firebase.",
-    "skills": ["React", "Express", "Node", "Tailwind", "Firebase"],
+    "skills": ["React", "Node", "Tailwind", "Firebase"],
     "demo": "https://kyle-image.netlify.app/login",
     "source": "https://github.com/KyleFuscher/AI_Image_Gen"
   },
@@ -19,7 +19,7 @@
     "title": "ChatGPT",
     "imageSrc": "project/chatGPT.png",
     "description": "A conversational AI chatbot built with React and Node, leveraging the OpenAI API to deliver human-like responses.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "OpenAPI"],
     "demo": "https://kylefuscherchatgpt.netlify.app/",
     "source": "https://github.com/KyleFuscher/ChatGPT"
   },
@@ -27,7 +27,7 @@
     "title": "Resume Cover Letter Builder",
     "imageSrc": "project/week4UI.png",
     "description": "An intuitive tool that helps users craft professional resumes and cover letters with live previews and export options.",
-    "skills": ["React", "Express", "Node", "Tailwind", "Firebase"],
+    "skills": ["React", "Node", "Tailwind", "Firebase"],
     "demo": "https://kyleresume.netlify.app/",
     "source": "https://github.com/KyleFuscher/Resume_Cover_Letter"
   },
