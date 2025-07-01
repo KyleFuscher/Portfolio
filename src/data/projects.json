@@ -2,15 +2,15 @@
   {
     "title": "Healthcare App",
     "imageSrc": "project/week2UI.png",
-    "description": "AI Ethics in Healthcare Sector.",
-    "skills": ["Lovable", "React", "Superbase"],
+    "description": "A responsive web platform exploring AI ethics in the healthcare sector, featuring interactive case studies and resources for best practices.",
+    "skills": ["Builder.io", "Figma", "Lovable", "Superbase"],
     "demo": "https://tech-titans.lovable.app/",
     "source": "https://github.com/KyleFuscher/tech-titans"
   },
   {
     "title": "Text to Image",
     "imageSrc": "project/week3UI.png",
-    "description": "A tool that generates text to images. I used Firebase to configure a complete user authentication system.",
+    "description": "A full-stack web app that transforms text prompts into AI-generated images, including secure user authentication with Firebase.",
     "skills": ["React", "Express", "Node", "Tailwind", "Firebase"],
     "demo": "https://kyle-image.netlify.app/login",
     "source": "https://github.com/KyleFuscher/AI_Image_Gen"
@@ -18,7 +18,7 @@
   {
     "title": "ChatGPT",
     "imageSrc": "project/chatGPT.png",
-    "description": "This is a ChatGPT in React with the help of OpenAI API.",
+    "description": "A conversational AI chatbot built with React and Node, leveraging the OpenAI API to deliver human-like responses.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://kylefuscherchatgpt.netlify.app/",
     "source": "https://github.com/KyleFuscher/ChatGPT"
@@ -26,7 +26,7 @@
    {
     "title": "Resume Cover Letter Builder",
     "imageSrc": "project/week4UI.png",
-    "description": "This is a project made to build reume & cover letter.",
+    "description": "An intuitive tool that helps users craft professional resumes and cover letters with live previews and export options.",
     "skills": ["React", "Express", "Node", "Tailwind", "Firebase"],
     "demo": "https://kyleresume.netlify.app/",
     "source": "https://github.com/KyleFuscher/Resume_Cover_Letter"
@@ -34,7 +34,7 @@
    {
     "title": "Project A",
     "imageSrc": "project/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A web app prototype showcasing modern JavaScript frameworks and server-side rendering for learning purposes.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
@@ -42,7 +42,7 @@
    {
     "title": "Project B",
     "imageSrc": "project/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A practice project demonstrating CRUD operations, REST API integration, and responsive UI with React and Node.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
@@ -50,7 +50,7 @@
   {
     "title": "Project C",
     "imageSrc": "project/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A sample application combining React, Express, and Node to illustrate full-stack development workflows.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
@@ -58,7 +58,7 @@
   {
     "title": "Project D",
     "imageSrc": "project/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "An experimental platform for testing modern web technologies and best practices in deployment and authentication.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
